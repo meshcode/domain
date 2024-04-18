@@ -59,3 +59,11 @@ section p {
     font-size: 1.2em;
     margin-bottom: 20px;
 }
+
+/* Footer styles */
+footer {
+    background-color: #000; /* Black footer background */
+    color: #fff; /* White footer text */
+    padding: 20px;
+    text-align: center;
+}

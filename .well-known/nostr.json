@@ -3,6 +3,6 @@
      "Mateusz": "cc3ae58c7569d9bae32e4817be856c8a93626986a4b178afe1cc52d020a0dca4"
    },
   "relays": {
-    "cc3ae58c7569d9bae32e4817be856c8a93626986a4b178afe1cc52d020a0dca4": [ "wss://nostr.wine", "wss://filter.nostr.wine", "wss://nostr21.com", "wss://relay.nostr.band", "wss://relay.damus.io", "wss://relayable.org", "wss://nos.lol", "wss://purplerelay.com", "wss://relay.primal.net", "wss://nostr.bitcoiner.social", "wss://nostr21.com", "wss://relay.exit.pub", "wss://relay.nostrplebs.com", "wss://purplepag.es", "wss://relay.snort.social", "wss://pyramid.fiatjaf.com", "wss://140.fz.io", "wss://relay.bitcoinpark.com", "wss://relay.stoner.com", "wss://nostr.mutinywallet.com", "wss://relay.mostr.pub", "wss://ca.orangepill.dev", "wss://nostr.plebchain.org", "wss://relay.orangepill.dev", "wss://relay.nostriches.com" ]
+    "cc3ae58c7569d9bae32e4817be856c8a93626986a4b178afe1cc52d020a0dca4": [ "wss://nostr.wine", "wss://filter.nostr.wine", "wss://relay.damus.io", "wss://relay.primal.net", "wss://relay.snort.social", "wss://relay.mostr.pub", "wss://relayable.org", "wss://nostr21.com"]
   }
 }
